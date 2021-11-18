@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 @font-face {
-    font-family: 'linja pona';
-    src: url("https://joelthomastr.github.io/tokipona/linja-pona-4.2.otf");
+    font-family: 'linja sike';
+    src: url("https://github.com/mathmaster13/lipu-kepeken-linja-sike/blob/gh-pages/linja-sike.otf");
 }
 
 footer > p {
@@ -21,7 +21,7 @@ header ul li {
 }
 
 h1,h2,h3,h4,h5,h6,p,li,ul {
-    font-family: 'linja pona';
+    font-family: 'linja sike';
     text-rendering: optimizeLegibility;
     font-size: 1.5em;
 }
